@@ -1,0 +1,6 @@
+submissions/
+z_exclude/
+keras_ext/
+*.tgz
+*.json
+*.log
